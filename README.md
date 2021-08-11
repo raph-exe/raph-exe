@@ -9,4 +9,4 @@ As Most Of The Day Im Active On Discord
 # Languages 🌐
 I Speak 3 Normal Languages And 5 Coding Languages
 
-![Random Image](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
