@@ -1,6 +1,10 @@
 # Hey 😊
 Hi My Real Name Is Raphael And Im 15 And I Like To Code
 
+My Favourite Animal Is Penguin
+
+My Favourite Colour is #00ffff (Cyan)
+
 # Contact 📞
 To Contact Me Join My [Discord Server](https://dsc.gg/polar69)
 
