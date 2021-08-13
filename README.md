@@ -17,4 +17,4 @@ You May Request Me Custom Tools And More In My Server
 # Languages 🌐
 I Speak 3 Normal Languages And Know 6 Coding Languages
 
-![](https://images1.the-dots.com/1669923/jack-russel-looping.gif?p=projectImageFullJpg)
+![](https://i.imgur.com/4M7IWwP.gif)
