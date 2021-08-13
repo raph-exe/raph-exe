@@ -3,7 +3,7 @@ Hi My Real Name Is Raphael And Im 15 And I Like To Code
 
 My Favourite Animals Are Penguins
 
-My Favourite Colour is Cyan
+My Favourite Colour is Cyan (#00ffff)
 
 My Favourite Coding Language Is C# or Node JS
 
