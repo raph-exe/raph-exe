@@ -1,20 +1,5 @@
-# Hey 😊
-Hi My Real Name Is Raphael And Im 15 And I Like To Code
+# Hey ![](https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
 
-My Favourite Animals Are Penguins
+Hey Its Me Polar , My Real name Is Raphael Im 15 And I Code So Yeah LOL
 
-My Favourite Colour is Cyan (#00ffff)
-
-My Favourite Coding Language Is C# or Node JS
-
-# Contact 📞
-To Contact Me Join My [Discord Server](https://dsc.gg/polar69)
-
-Most Of The Day Im Active On Discord
-
-You May Request Me Custom Tools And More In My Server
-
-# Languages 🌐
-I Speak 3 Normal Languages And Know 6 Coding Languages
-
-![](https://i.imgur.com/4M7IWwP.gif)
+Most Of My Stuff On Discord So I Would Recommend Joining My Server
