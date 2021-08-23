@@ -1,4 +1,4 @@
-```json
+```js
 {
   name: 'Raphael',
   age: 15,
