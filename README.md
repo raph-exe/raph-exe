@@ -1,18 +1,3 @@
-```js
-{
-  name: 'Raphael',
-  age: 15,
-  langs: ['Node JS','C#','JS','Batch','CSS'],
-  favourites:
-  [{
-     color: '#00ffff',
-     animal: 'Penguin',
-     lang: ['C#','Node JS']
-  }],
-}
-```
-### Quick Links
+# Hey, Its Me Polar AKA Raphael 👋
 
-[🔗 Discord Server](https://dsc.gg/polar69)
-
-[🔗 Discord Bot](https://dsc.gg/rumpy)
+## I Like Penguins And Coding 👍
