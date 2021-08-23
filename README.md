@@ -14,7 +14,7 @@
 }
 ```
 
-# 🔗 Quick Links
+## 🔗 Quick Links
 
 * [Discord Server](https://dsc.gg/polar69)
 * [Discord Bot](https://dsc.gg/rumpy)
