@@ -2,7 +2,7 @@
 
 ## 👍 I Like Penguins And Coding 👍
 
-### 🔗 Quick Links 🔗
+## 🔗 Quick Links 🔗
 
 [[+] Discord Server](https://dsc.gg/polar69)
 
