@@ -1,5 +1,4 @@
-```js
-const Polar = 
+```json
 {
   name: 'Raphael',
   age: 15,
