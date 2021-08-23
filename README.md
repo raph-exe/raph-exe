@@ -1,5 +1,5 @@
 ```js
-const ME = 
+const Polar = 
 {
   name: 'Raphael',
   age: 15,
@@ -11,3 +11,9 @@ const ME =
      lang: ['C#','Node JS']
   }],
 }
+```
+### Quick Links
+
+[🔗 Discord Server](https://dsc.gg/polar69)
+
+[🔗 Discord Bot](https://dsc.gg/rumpy)
