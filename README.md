@@ -2,7 +2,9 @@
 
 ```js
 var Name = 'Raphael';
+
 let Age = 15;
+
 const langs = ['C#','Node JS','CSS','Batch','JS'];
 
 const favourite = 
