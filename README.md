@@ -19,4 +19,4 @@ const favs =
 
 * [Discord Server](https://dsc.gg/polar69)
 * [Discord Bot](https://dsc.gg/rumpy)
-* [Polar Chat](https://polar-chat.polar-69.repl.co/)
+* [Polar Chat](https://polar-chatroom.polar-69.repl.co/)
