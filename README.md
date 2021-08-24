@@ -1,20 +1,20 @@
 # 👋 Hey, Its Me Polar AKA Raphael
 
 ```
-{
-  "Name" : "Raphael",
-  "Age" : 15,
-  "Languages" : ["Node JS" , "C#" , "CSS" , "Batch"],
-  "Favourites" : 
-  {
-    "Color" : "#00ffff",
-    "Animal" : "Penguin",
-    "Language" : ["C#" , "Node JS"],
-  },
-}
+>>-Basic->>
+
+> Name >> Raphael
+> Age >> 15
+> Languages >> C# | Node-JS | JS | Batch | CSS
+
+>>-Favourites->>
+
+> Color >> #00ffff
+> Animal >> Penguin
+> Language >> C# / Node-JS
 ```
 
-## 🔗 Quick Links
+## 🪶 Quick Links
 
 * [Discord Server](https://dsc.gg/polar69)
 * [Discord Bot](https://dsc.gg/rumpy)
