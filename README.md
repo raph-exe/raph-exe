@@ -7,7 +7,7 @@ let Age = 15;
 
 const langs = ['C#','Node JS','CSS','Batch','JS'];
 
-const favourite = 
+const favs = 
 {
   color: '#00ffff',
   animal: 'Penguin',
