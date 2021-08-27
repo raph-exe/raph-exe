@@ -20,3 +20,4 @@ const favs =
 * [Discord Server](https://dsc.gg/polar69)
 * [Discord Bot](https://dsc.gg/rumpy)
 * [Polar Chat](https://polar-chatty.polar-69.repl.co/)
+* [Polar Calculator](https://polar-69.github.io/Calculator/)
