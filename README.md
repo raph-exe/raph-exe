@@ -1,4 +1,4 @@
-# 👋 Hey, Its Me Polar
+# 👋 Hey There
 
 ```js
 var Name = 'Raphael';
