@@ -5,7 +5,7 @@ var Name = 'Raphael';
 
 let Age = 15;
 
-const langs = ['C#','Node JS','CSS','Batch','JS'];
+const langs = ['C#','Node JS','CSS','Batch','JS','HTML'];
 
 const favs = 
 {
