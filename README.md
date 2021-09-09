@@ -5,7 +5,7 @@ var Name = 'Raphael';
 
 let Age = 15;
 
-const langs = ['C#','Node JS','CSS','Batch','JS','HTML']; // Belive It Or Not I Actually Dont Know Python But I Dont Need It
+const langs = ['C#','Node JS','CSS','Batch','JS','HTML']; // Belive It Or Not I Dont Know Python But I Dont Need It :)
 
 const favs = 
 {
