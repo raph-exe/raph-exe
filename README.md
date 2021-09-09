@@ -5,7 +5,7 @@ var Name = 'Raphael';
 
 let Age = 15;
 
-const langs = ['C#','Node JS','CSS','Batch','JS','HTML']; // Belive It Or Not I Dont Know Python But I Dont Need It :)
+const langs = ['C#','Node JS','CSS','Batch','JS','HTML'];
 
 const favs = 
 {
@@ -14,7 +14,7 @@ const favs =
   langs: ['C#','Node JS']
 }
 ```
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Polar-69)
 ## 🌠 Quick Links
 
 * [Discord Server](https://dsc.gg/polar69)
