@@ -14,7 +14,6 @@ const favs =
   langs: ['C#','Node JS']
 }
 ```
-![Stats](https://github-readme-stats.vercel.app/api?username=Polar-69)
 ## 🌠 Quick Links
 
 * [Discord Server](https://dsc.gg/polar69)
