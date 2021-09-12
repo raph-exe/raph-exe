@@ -1,12 +1,4 @@
-<html>
-  <img src="about.png" alt="About">
-  <style>
-    img 
-    {
-      border-radius: 50%;
-    }
-  </style>
-</html>
+<img src="about.png" alt="About" style="border-radius: 50%;">
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
