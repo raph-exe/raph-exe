@@ -1,5 +1,4 @@
-<img src="about.png" alt="About">
-<link rel="stylesheet" type="text/css" media="all" href="test.css" />
+<img src="about.png" alt="About" border-radius="50%">
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
