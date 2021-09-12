@@ -1,4 +1,3 @@
-# 👋 About Me
 ![About Me](about.png)
 
 ## 🌠 Quick Links
