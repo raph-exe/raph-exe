@@ -1,5 +1,5 @@
 # 👋 About Me
-![About Me](image.png)
+![About Me](about.png)
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
