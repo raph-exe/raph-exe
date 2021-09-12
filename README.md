@@ -1,4 +1,4 @@
-<img src="about.png" alt="About" border-radius="50%">
+![About Me](about.png)
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
