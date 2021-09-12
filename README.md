@@ -1,4 +1,4 @@
-![About Me](about.png)
+![About Me](polar.png)
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
