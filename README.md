@@ -1,5 +1,5 @@
 <html>
-  <img src="about" alt="About">
+  <img src="about.png" alt="About">
   <style>
     img 
     {
