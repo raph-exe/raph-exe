@@ -1,4 +1,10 @@
-![About Me](about.png)
+<img src="about" alt="About">
+<style>
+  img 
+  {
+    border-radius: 50%;
+  }
+</style>
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
