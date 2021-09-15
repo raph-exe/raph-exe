@@ -1,4 +1,14 @@
-![About Me](polar.png)
+## 👋 About Me
+```
+Name = Raphael
+Age = 15
+Gender = Male
+
+Known Languages = C Sharp , Node JS , HTML CSS JS , Batch
+Favourite Language = C Sharp And Node JS
+Favourite Color = Pink / Blue / Purple
+Favourite Animal = Penguin
+```
 
 ## 🌠 Quick Links
 * [Discord Server](https://dsc.gg/polar69)
