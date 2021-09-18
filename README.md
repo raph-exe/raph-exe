@@ -5,7 +5,6 @@ Age = 15
 Gender = Male
 
 Known Languages = C Sharp , Node JS , HTML CSS JS , Batch
-Favourite Language = C Sharp And Node JS
 Favourite Color = Pink / Blue / Purple
 Favourite Animal = Penguin
 ```
