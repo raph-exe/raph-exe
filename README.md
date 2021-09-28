@@ -14,3 +14,10 @@ Favourite Animal = Penguin
 * [Discord Bot](https://dsc.gg/rumpy)
 * [Polar Chat](https://polar-chatty.polar-69.repl.co/)
 * [Website](https://polar-69.github.io/Website/)
+
+## 🎁 Something
+<details>
+<summary>Click Me</summary>
+<br>
+  Hi
+</details>
