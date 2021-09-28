@@ -42,7 +42,7 @@ Favourite Animal = Penguin
                 <br>
                 <img src="https://c.tenor.com/u9XnPveDa9AAAAAM/rick-rickroll.gif" width="100" height="100">
                 <br>
-                Well You Wasted Your Time LO
+                LOL Bye
               </details>
             </details>
           </details>
