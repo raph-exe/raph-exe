@@ -40,7 +40,7 @@ Favourite Animal = Penguin
               <details>
                 <summary>This Is The Real Final Click</summary>
                 <br>
-                ![RickRoll](https://c.tenor.com/u9XnPveDa9AAAAAM/rick-rickroll.gif)
+                <img src="https://c.tenor.com/u9XnPveDa9AAAAAM/rick-rickroll.gif" width="100" height="100">
                 Well You Wasted Your Time LOL Check Out My Projects
               </details>
             </details>
