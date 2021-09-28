@@ -29,20 +29,20 @@ Favourite Animal = Penguin
         <summary>Please Click Me Too</summary>
         <br>
         <details>
-          <summary>Click Me Or Else</summary>
+          <summary>Click Me Or Else I Will Find you</summary>
           <br>
           <details>
-            <summary>Final Click Me</summary>
+            <summary>This Is The Final Click</summary>
             <br>
             <details>
               <summary>JK Click Me Again</summary>
               <br>
               <details>
-                <summary>This Is The Real Final Click</summary>
+                <summary>Please Dont Click Me</summary>
                 <br>
                 <img src="https://c.tenor.com/u9XnPveDa9AAAAAM/rick-rickroll.gif" width="100" height="100">
                 <br>
-                LOL Bye
+                ¯\_(ツ)_/¯
               </details>
             </details>
           </details>
