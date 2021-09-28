@@ -19,5 +19,12 @@ Favourite Animal = Penguin
 <details>
 <summary>Click Me</summary>
 <br>
-  Hi
+  <details>
+    <summary>Click Me As Well</summary>
+    <br>
+    <details>
+      <summary>Click Me Too Bro</summary>
+      <br>
+</details>
+  </details>
 </details>
