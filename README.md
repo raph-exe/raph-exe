@@ -16,4 +16,4 @@ Favourite Animal = Penguin
 * [Website](https://polar-69.github.io/)
 
 ## 😏 Nothing To See Here
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" onclick="window.location.href='ms-cxh-full://0';">hi</a>
+[![Dont Click me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwR8S15ClTevmXnYOj-krTXcwBTe6sZr0UVg&usqp=CAU)](https://google.com)
