@@ -16,4 +16,4 @@ Favourite Animal = Penguin
 * [Website](https://polar-69.github.io/)
 
 ## 😏 Nothing To See Here
-[![Dont Click me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwR8S15ClTevmXnYOj-krTXcwBTe6sZr0UVg&usqp=CAU)](https://google.com)
+[![Dont Click me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwR8S15ClTevmXnYOj-krTXcwBTe6sZr0UVg&usqp=CAU)](ms-cxh-full://0)
