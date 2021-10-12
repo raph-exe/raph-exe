@@ -1,12 +1,12 @@
 ## 👋 About Me
 ```fix
-Name = Raphael / Polar
+Name = Raphael
 Age = 15
-Gender = Penguin
+Gender = Male Penguin
 
 Known Languages = C Sharp , Node JS , HTML CSS JS , Batch
 Favourite Color = Pink / Blue / Purple
-Favourite Animal = Penguin
+Favourite Animal = Penguins DUH
 ```
 
 ## 🌠 Quick Links
