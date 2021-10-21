@@ -2,14 +2,14 @@
 ```fix
 Name = Raphael
 Age = 15
-Gender = Male Penguin
+Gender = Male
+Birthday = 29th May 2006
 
-Known Languages = C Sharp , Node JS , HTML CSS JS , Batch
-Favourite Color = Pink / Blue / Purple
-Favourite Animal = Penguins DUH
+Programming Languages = C Sharp , Node JS , HTML CSS JS , Batch
+Normal Languages = English , Romanian , French (Learning In School)
 ```
 
-## 🌠 Quick Links
+## ⚓ Quick Links
 * [Discord Server](https://dsc.gg/polar69)
 * [Discord Bot](https://dsc.gg/rumpy)
 * [Polar Chat](https://github.com/Polar-69/Polar-Chat-Desktop/releases/tag/Installer)
