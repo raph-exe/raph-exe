@@ -13,7 +13,7 @@
     <td>Male</td>
   </tr>
   <tr>
-    <td>Languages</td>
+    <td>Programming<br>Languages</td>
     <td>C Sharp<br>HTML CSS JS<br>Batch<br>Node JS</td>
   </tr>
   <tr>
