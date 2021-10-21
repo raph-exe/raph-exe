@@ -8,4 +8,4 @@
 }
 ```
 ## 🔔 Contact Me
-[Discord](https://dsc.gg/polar69)
+* [Discord](https://dsc.gg/polar69)
