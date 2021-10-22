@@ -31,7 +31,4 @@
     <td>Popular Project</td>
     <td><a href="https://polar-chatty.polar-69.repl.co/">Polar Chat</a></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="https://distok.top/stickers/781286635769298956/781291442961383434.gif" width="150" height="150"><img src="https://distok.top/stickers/796146095511961602/796147193706709062.gif" width="150" height="150"></td>
-  </tr>
 </table>
