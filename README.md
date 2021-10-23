@@ -1,4 +1,4 @@
-# ✌ About Me
+# About Me
 <table>
   <tr>
     <td>Name</td>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-## 🔔 Links
+## Links
 <table>
   <tr>
     <td>Discord Server</td>
