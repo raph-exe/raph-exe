@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>Languages</td>
-    <td><code>C#</code> <code>HTML CSS JS</code> <code>Batch</code> <code>Different Types Of JS</code></td>
+    <td><code>C#</code> <code>HTML CSS JS</code> <code>Batch</code> <code>Different JS Frameworks</code></td>
   </tr>
 </table>
 
