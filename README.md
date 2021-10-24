@@ -26,7 +26,7 @@
     <td><a href="https://dsc.gg/polar69">Polar Development</a></td>
   </tr>
   <tr>
-    <td>Cute Puppy</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Polar Chat</a></td>
+    <td>Rickroll</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Not A Rickroll</a></td>
   </tr>
 </table>
