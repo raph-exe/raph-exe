@@ -26,4 +26,7 @@
     <td><a href="https://polar-69.github.io">Website</a></td>
     <td><a href="https://replit.com/@Polar-69">Repl.it</a></td>
   </tr>
+  <tr>
+    <td colspan="3"><img src="https://i.imgur.com/4M7IWwP.gif" width="300" height="10"></td>
+  </tr>
 </table>
