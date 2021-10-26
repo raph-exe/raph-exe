@@ -22,7 +22,8 @@
 ## Links
 <table>
   <tr>
-    <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
+    <td><a href="https://dsc.gg/polar69"Discord Server</a></td>
     <td><a href="https://polar-69.github.io">Website</a></td>
+    <td><a href="https://replit.com/@Polar-69"Repl.it</a></td>
   </tr>
 </table>
