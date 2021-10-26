@@ -22,11 +22,7 @@
 ## Links
 <table>
   <tr>
-    <td>Discord Server</td>
-    <td><a href="https://dsc.gg/polar69">Polar Development</a></td>
-  </tr>
-  <tr>
-    <td>Rickroll</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Not A Rickroll</a></td>
+    <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
+    <td><a href="https://polar-69.github.io">Website</a></td>
   </tr>
 </table>
