@@ -27,6 +27,6 @@
     <td><a href="https://replit.com/@Polar-69">Repl.it</a></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="https://techcrunch.com/wp-content/uploads/2014/06/babygif.gif?w=700&crop=1" width="300" height="200"></td>
+    <td colspan="3"><img src="https://i.imgur.com/4M7IWwP.gif"></td>
   </tr>
 </table>
