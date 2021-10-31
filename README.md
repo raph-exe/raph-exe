@@ -23,6 +23,6 @@
 <table>
   <tr>
     <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
-    <td><a href="https://polar-69.github.io">Website</a></td>
+    <td><a href="https://dev-polar.ml">Website</a></td>
   </tr>
 </table>
