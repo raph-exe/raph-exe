@@ -11,11 +11,11 @@
   </tr>
   <tr>
     <td>Gender</td>
-    <td>Male</td>
+    <td>Male / Penguin</td>
   </tr>
   <tr>
     <td>Languages</td>
-    <td><code>C#</code> <code>HTML CSS JS</code> <code>Batch</code> <code>Many JS Frameworks</code></td>
+    <td><code>C#</code> <code>HTML CSS JS</code> <code>Batch</code> <code>React JS, Electron JS etc.</code></td>
   </tr>
 </table>
 
