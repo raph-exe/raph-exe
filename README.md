@@ -2,7 +2,7 @@
   <tr>
     <td>Name</td>
     <td>Raphael</td>
-    <td rowspan="4"><img src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif" width="100" height="100"></td>
+    <td rowspan="9"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Age</td>
