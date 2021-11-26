@@ -17,6 +17,10 @@
     <td>Languages</td>
     <td><code>C#</code> <code>HTML,CSS,JS</code> <code>Batch,Bash</code> <code>Node JS</code></td>
   </tr>
+  <tr>
+    <td>JS Frameworks</td>
+    <td><code>Electron.js</code> <code>Discord.js</code> <code>Express.js</code> <code>Some more forgotten names</code></td>
+  </tr>
 </table>
 
 ## Links
