@@ -1,4 +1,3 @@
-# About Me
 <table>
   <tr>
     <td>Name</td>
@@ -12,5 +11,9 @@
   <tr>
     <td>Gender</td>
     <td>Male</td>
+  </tr>
+  <tr>
+    <td>Birthday</td>
+    <td>May 29th, 2006</td>
   </tr>
 </table>
