@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
-    <td><a href="https://dsc.gg/dobby69">Discord Bot</a></td>
+    <td><a href="https://dsc.gg/bonky">Discord Bot</a></td>
   </tr>
   <tr>
     <td colspan="2"><a href="https://dev-polar.ml">Website</a></td>
