@@ -3,7 +3,7 @@
   <tr>
     <td>Name</td>
     <td>Raphael</td>
-    <td rowspan="4"><img src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Age</td>
@@ -12,24 +12,5 @@
   <tr>
     <td>Gender</td>
     <td>Male</td>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td><code>C#</code> <code>HTML,CSS,JS</code> <code>Batch,Bash</code> <code>Node JS</code></td>
-  </tr>
-  <tr>
-    <td>JS Frameworks</td>
-    <td><code>Electron.js</code> <code>Discord.js</code> <code>Express.js</code> <code>Some more forgotten names</code></td>
-  </tr>
-</table>
-
-## Links
-<table>
-  <tr>
-    <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
-    <td><a href="https://dsc.gg/bonky">Discord Bot</a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://dev-polar.ml">Website</a></td>
   </tr>
 </table>
