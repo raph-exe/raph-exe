@@ -34,6 +34,6 @@
   </tr>
   <tr>
     <td>Contacts</td>
-    <td><a href="https://dsc.gg/polar69">Discord Server</a></td>
+    <td><a href="https://dsc.gg/raphy">Discord Server</a></td>
   </tr>
 </table>
