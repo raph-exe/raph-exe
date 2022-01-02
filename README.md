@@ -33,7 +33,7 @@
     <td><code>C#</code> <code>Node JS</code> <code>HTML, CSS, JS</code> <code>Batch, Bash</code></td>
   </tr>
   <tr>
-    <td>Contacts</td>
-    <td><a href="https://dsc.gg/raphy">Discord Server</a></td>
+    <td>Socials</td>
+    <td><a href="https://dsc.gg/raphy">Discord Server</a>, <a href="https://www.youtube.com/channel/UCC8RMxh9Tnke7Ze3ytdRa3g">Youtube Channel</a></td>
   </tr>
 </table>
