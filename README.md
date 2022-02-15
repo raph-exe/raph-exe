@@ -2,7 +2,7 @@
   <tr>
     <td>Name</td>
     <td>Raphael</td>
-    <td rowspan="4"><img src="https://distok.top/stickers/755240383084232756/755244598799892490.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="https://i.pinimg.com/originals/f9/8f/c2/f98fc2fc9a9e290580817a3ab118f593.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Age</td>
@@ -22,7 +22,7 @@
   <tr>
     <td>Title</td>
     <td>Student</td>
-    <td rowspan="4"><img src="https://distok.top/stickers/755240383084232756/755243061088616458.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="https://i.pinimg.com/originals/f6/42/ee/f642eea95a8d6676dbfa530fe56b5ade.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Interests</td>
