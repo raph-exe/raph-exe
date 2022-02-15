@@ -2,7 +2,7 @@
   <tr>
     <td>Name</td>
     <td>Raphael</td>
-    <td rowspan="4"><img src="https://i.pinimg.com/originals/f9/8f/c2/f98fc2fc9a9e290580817a3ab118f593.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="pupmirrored.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Age</td>
