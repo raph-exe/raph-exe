@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>Age</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Gender</td>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Interests</td>
-    <td><code>Ethical hacking</code> <code>Web development</code> <code>App development</code> <code>Discord bot development</code></td>
+    <td><code>Web development</code> <code>Software development</code> <code>Discord Development</code></td>
   </tr>
   <tr>
     <td>Languages</td>
