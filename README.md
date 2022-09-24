@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td>Name</td>
     <td>Raphael</td>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 <br>
-<table>
+<table align="center">
   <tr>
     <td>Title</td>
     <td>Student</td>
