@@ -34,6 +34,6 @@
   </tr>
   <tr>
     <td>Socials</td>
-    <td><a href="https://dsc.gg/raphy">Discord Server</a>, <a href="https://www.youtube.com/channel/UCC8RMxh9Tnke7Ze3ytdRa3g">Youtube Channel</a></td>
+    <td><a href="https://dsc.gg/raphy">Discord Server</a></td>
   </tr>
 </table>
