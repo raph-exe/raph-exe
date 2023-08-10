@@ -33,6 +33,6 @@
   </tr>
   <tr>
     <td>Frameworks</td>
-    <td><code>React JS</code> <code>Tailwind CSS</code></td>
+    <td><code>React JS</code> <code>Tailwind CSS</code> <code>Electron JS</code></td>
   </tr>
 </table>
