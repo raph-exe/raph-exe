@@ -1,1 +1,1 @@
-<img src="https://64.media.tumblr.com/a2d42b1a133f6a27433e92b9b014bdad/tumblr_ozkgvuz4tt1qeyvpto1_500.gif" align="center" width="100%"/>
+<img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" />
