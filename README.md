@@ -1,100 +1,16 @@
-<img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="1%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="2%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="3%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="4%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="5%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="6%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="7%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="8%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="9%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="10%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="11%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="12%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="13%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="14%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="15%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="16%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="17%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="18%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="19%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="20%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="21%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="22%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="23%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="24%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="25%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="26%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="27%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="28%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="29%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="30%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="31%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="32%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="33%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="34%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="35%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="36%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="37%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="38%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="39%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="40%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="41%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="42%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="43%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="44%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="45%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="46%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="47%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="48%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="49%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="50%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="51%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="52%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="53%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="54%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="55%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="56%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="57%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="58%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="59%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="60%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="61%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="62%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="63%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="64%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="65%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="66%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="67%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="68%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="69%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="70%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="71%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="72%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="73%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="74%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="75%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="76%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="77%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="78%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="79%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="80%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="81%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="82%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="83%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="84%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="85%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="86%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="87%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="88%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="89%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="90%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="91%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="92%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="93%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="94%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="95%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="96%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="97%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="98%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="99%" />
-    <img src="https://i.pinimg.com/originals/4e/e7/96/4ee7962464f1664b8335d5b5c877a139.gif" align="center" width="100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41aefab3-e46f-434b-a2a3-b3d371922b6a/dcob8ex-b99ec952-9658-4461-bddc-7bb5a37ce562.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxYWVmYWIzLWU0NmYtNDM0Yi1hMmEzLWIzZDM3MTkyMmI2YVwvZGNvYjhleC1iOTllYzk1Mi05NjU4LTQ0NjEtYmRkYy03YmI1YTM3Y2U1NjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jEwYRLab0_Pf4JfVoyMqPBKep8CdETr-vOkP7UvFtHQ" width="30%" align="left"/>
+<h1>👋 Hey, I'm Raphael</h1>
+
+```
+𝖠𝖻𝗈𝗎𝗍.𝖾𝗑𝖾
+┣ 𝖨 𝖺𝗆 𝖱𝖺𝗉𝗁𝖺𝖾𝗅, 𝖺 17 𝗒𝖾𝖺𝗋 𝗈𝗅𝖽 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝗐𝗁𝗈 𝖾𝗇𝗃𝗈𝗒𝗌
+┗ 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍, 𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝖺𝗇𝖽 𝖾𝗍𝗁𝗂𝖼𝖺𝗅 𝗁𝖺𝖼𝗄𝗂𝗇𝗀.
+```
+
+```
+𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝗌.𝖾𝗑𝖾
+┣ 𝖯𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀
+┣ 𝖢𝗁𝖾𝗌𝗌
+┣ 𝖯𝗌𝗒𝖼𝗁𝗈𝗅𝗈𝗀𝗒
+┗ 𝖢𝗈𝗆𝗉𝗈𝗌𝗂𝗇𝗀 𝖬𝗎𝗌𝗂𝖼
+```
